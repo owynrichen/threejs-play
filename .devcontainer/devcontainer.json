@@ -1,4 +1,14 @@
 {
     "image":"mcr.microsoft.com/devcontainers/universal:2",
-    "forwardPorts": [5173]
+	"forwardPorts": [
+		5173
+	],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"dbaeumer.vscode-eslint"
+			]
+		}
+	}
 }

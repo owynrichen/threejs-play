@@ -1,3 +1,3 @@
 # Three.js Playground
 
-Using this to try out some Three.js fun
+Using this to try out some Three.js funps 
