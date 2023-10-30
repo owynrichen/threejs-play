@@ -7,7 +7,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"blackgirlbytes.deploy-to-github-pages"
 			]
 		}
 	}
