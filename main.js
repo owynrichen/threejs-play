@@ -36,7 +36,7 @@ function onScroll(scrollPos) {
 	requestAnimationFrame( animate );
 }
 
-if ( WebGL.isWebGLAvailable() ) {
+if ( true ) {
 
 	// Initiate function or other initializations here
 	animate();
